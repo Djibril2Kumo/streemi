@@ -12,9 +12,9 @@
         "symfony/flex": "^2",
         "symfony/framework-bundle": "7.1.*",
         "symfony/runtime": "7.1.*",
-        "symfony/yaml": "7.1.*"
-    },
-    "require-dev": {
+        "symfony/twig-bundle": "7.1.*",
+        "symfony/yaml": "7.1.*",
+        "twig/twig": "^3.14"
     },
     "config": {
         "allow-plugins": {
